@@ -1,0 +1,20 @@
+Hello
+Name: Helinkumar Patel
+Studemt ID:1896495 
+
+Following are the list of coommoand Used To Present My CV.
+
+1. ls- i Used this commomand to List the file the directory 
+2. i Use This Commmand to Add User Name And Email Address:
+   git config --global user.name "Helin Patel"
+   git config --global user.email  "helinpatel1674@gmail.com"
+
+After Creating A email address I Created A report.text Presenting the information About What Command I USed.
+
+3 I Used GIt Add to Add File the report file 
+4. i Used git -m to send the comment message.
+5. After that I Used git Status To Find the changes in the Directory.
+6. I created My CV In https://novoresume.com/ 
+7. I Used git push to  send the CV
+8. I used git pull to get the cv in github.
+9. I succesfully Completed Uploading my CV.
